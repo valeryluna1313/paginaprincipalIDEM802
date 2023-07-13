@@ -1,0 +1,209 @@
+.Encabezado{
+background-color: crimson;
+width: 100%;
+height: 4000px;
+}
+.Contenedor{
+width: 100%;
+height: 200px;
+background-color: deeppink;
+text-align: center;
+font-size: 35px;
+color: white;
+}
+.Menu{
+width: 100%;
+height: 125px;
+background-color: aliceblue;
+display: flex;
+}
+.Contenedor2{
+    display: flex;
+}
+.Izquierda{
+background-color: fuchsia;
+width: 16%;
+height: 3665px;
+font-size: 20px;
+color: aliceblue;
+}
+.Centro{
+background-color: rgb(226, 86, 215);
+width: 68%;
+height: 3665px;
+font-size: 16px;
+}
+.Derecha{
+background-color: fuchsia;
+width: 16%;
+height: 3665px;
+}
+.Tecnologia{
+background-color: crimson;
+width: 20%;
+height: 100px;
+text-align: center;
+font-size: 35px;
+color: aliceblue;
+}
+.Matematicas{
+background-color: hotpink;
+width: 20%;
+height: 100px;
+text-align: center;
+font-size: 35px;
+color: aliceblue;
+}
+.Sociales{
+background-color: crimson;
+width: 20%;
+height: 100px;
+text-align: center;
+font-size: 35px;
+color: aliceblue;
+}
+.Biologia{
+background-color: hotpink;
+width: 20%;
+height: 100px;
+text-align: center;
+font-size: 35px;
+color: aliceblue;
+}
+.Ingles{
+background-color: crimson;
+width: 20%;
+height: 100px;
+text-align: center;
+font-size: 35px;
+color: aliceblue;
+}
+.ETS{
+    color: indigo;
+    font-size: 35px;
+    text-align: center;
+}
+.ETS2{
+color: blue;
+font-size: 30px;
+text-align: center;
+}
+.Renovables{
+color: indigo;
+font-size: 35px;
+text-align: center;
+}
+.Energia{
+color: blue;
+font-size: 30px;
+text-align: center;
+}
+.Energia2{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Renovables2{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Escolar{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Escolar2{ color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Democracia{ color: blue;
+    font-size: 30px;
+    text-align: center;
+
+}
+.Democracia2{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+
+}
+.Derechos{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Noticia{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Derechos2{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Noticia2{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Derechos3{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+.Isaac{
+
+    color: indigo;
+    font-size: 35px;
+    text-align: center;
+}
+.Biografia{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+.Contribuciones{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+
+}
+.Aportes{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+
+}
+.Eleccion{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Estadistica{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Encuesta{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.Environment{
+    color: indigo;
+    font-size: 35px;
+    text-align: center;
+}
+.Adopte{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+
+
+}
